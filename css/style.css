@@ -115,8 +115,9 @@ color: #2768d9;
     order: 3;
 }
 .home-img img {
-width: 100%;
-border-radius: 1rem;
+    margin-top: 1em;
+    width: 80%;
+    border-radius: 1rem;
 }
 .home-text span {
     font-size: var(--medium-font);
@@ -174,7 +175,7 @@ font-weight: 400;
     margin-top: 2rem;
 }
 .about-img img {
-width: 80%;
+width: 50%;
 border-radius: 1rem;
 }
 
@@ -221,7 +222,7 @@ padding-left: 5px;
 }
 
 .skills-img img {
-    width: 80%;
+    width: 48%;
     padding-left: 4rem;
     object-position: center;
     border-radius: 1rem;
@@ -262,29 +263,25 @@ padding-left: 5px;
 }
 
 .java-bar {
-    width: 90%;
+    width: 95%;
 }
 
 .css-bar {
-    width: 80%;
+    width: 95%;
 }
 .html-bar {
-    width: 95%;
+    width: 90%;
 }
 
 .sql-bar {
     width: 85%;
 }
-
-.git-bar {
-    width: 90%;
-}
 .spring-bar {
-    width: 30%;
+    width: 95%;
 }
 
 .linux-bar {
-    width: 40%;
+    width: 90%;
 }
 
 .git-bar {
@@ -311,8 +308,9 @@ margin-top:  2rem;
 
 
 .portfolio-img img:hover{
-transform: scale(1.1);
-transition: 1s;
+    transform: scale(1.1);
+    transition: 1s;
+    background-size: 100%;
 }
 
 /* ================== contact-form ===============*/
