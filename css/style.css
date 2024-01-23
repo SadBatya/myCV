@@ -185,6 +185,17 @@ font-weight: 400;
 text-align: justify;
 }
 
+.about-text > p > a {
+font-weight: bold;
+color: var( --text-color);
+text-decoration: underline;
+transition: .3s;
+}
+
+.about-text > p > a:hover{
+    color: #22cf91;
+}
+
 .information {
 margin: 1rem 0 1.4rem;
 }
