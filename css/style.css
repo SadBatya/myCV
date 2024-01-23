@@ -175,7 +175,7 @@ font-weight: 400;
     margin-top: 2rem;
 }
 .about-img img {
-width: 50%;
+width: 80%;
 border-radius: 1rem;
 }
 
@@ -222,7 +222,7 @@ padding-left: 5px;
 }
 
 .skills-img img {
-    width: 48%;
+    width: 80%;
     padding-left: 4rem;
     object-position: center;
     border-radius: 1rem;
